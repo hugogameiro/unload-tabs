@@ -1,0 +1,17 @@
+{
+  "name": "Unload Tabs",
+  "description": "Unload Tabs Chromium Extension",
+  "version": "0.3",
+  "manifest_version": 3,
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    "tabs", "alarms", "idle"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
