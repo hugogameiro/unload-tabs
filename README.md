@@ -1,8 +1,10 @@
-# Unload Tabs - Chromium Extension
+#### :warning: With the introduction of [Chrome Memory Saver](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/) this extension is somewhat redundant and I decided to archive it.
+
+## Unload Tabs - Chromium Extension
 
 This is a minimal extension for Chromium browsers using Manist v3. I created it because I wanted an extension to reduce my browser RAM usage. I didn't want to install an extension that would auto-update and bring all sorts of shenanigans (spam, monitoring, ads, etc.). So, I created this extension and decided to share it in case someone is looking for something similar.
 
-## Installation
+### Installation
 
 **This extension is for developers and people who can understand its code as all settings are embedded in the first lines of the `background.js` file.**
 
